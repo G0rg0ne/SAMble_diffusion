@@ -157,3 +157,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+src/stable-diffusion/models
